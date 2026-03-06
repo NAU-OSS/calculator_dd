@@ -56,7 +56,7 @@ Contributions are welcome. Please read CONTRIBUTING.md for guidelines.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See license.md for details.
 
 ## Roadmap
 
